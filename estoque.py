@@ -1,1 +1,8 @@
-
+cadastrar_produto()
+obter_nome_produto()
+obter_preco()
+obter_quantidade()
+listar_produtos()
+buscar_produto()
+alterar_estoque()
+remover_produto()
